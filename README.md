@@ -12,5 +12,6 @@ Other components (mainly QFN packages) have some specific hacks and work-arounds
 
 Feel free to contact me if you have suggestions, questions, improvements or other comments.
 
-Copyright 2014, Stefan Hamminga
+Copyright 2014, Stefan Hamminga.
+
 These files may be adapted and distributed under the terms of the Creative Commons Attribution-ShareAlike 4.0 International license.
